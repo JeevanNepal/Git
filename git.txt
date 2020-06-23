@@ -1,0 +1,14 @@
+Git.
+Git ia a version control system for tracking changes in computer files. 
+It is used for cordinating work among several people on a project and tracking progress overtime.
+
+
+Steps to push files/ code in existing repository.
+
+1. git init
+2. add the files: git add . / name of the particular file.
+3. open the file in notepad: notepad (file name).
+4. commit to the repository: git commit -m "...."
+5. connect to the repository:git remote add origin(url of your repository).
+6. git push origin -f(force push) master.
+
