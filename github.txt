@@ -1,0 +1,3 @@
+Github.
+Github is a a Git repository hosting service which provides web-based geogriphical interface.
+It helps every members to work together on the project from anywhere, and makes it easy for them to colaborate.
