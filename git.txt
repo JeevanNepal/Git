@@ -5,11 +5,13 @@ It is used for cordinating work among several people on a project and tracking p
 Steps to push files/ code in existing repository.
 
 1. git init
-2. add the files: git add . / name of the particular file.
-3. open the file in notepad: notepad (file name).
-4. commit to the repository: git commit -m "...."
-5. connect to the repository:git remote add origin(url of your repository).
-6. git push origin -f(force push) master.
+2. add the files: git add (.all files) / name of the particular file.
+3. open the file in notepad: notepad (file name) / open the file in Visual Studio Code.
+4. add a new branch: git checkout new-branch
+5. check the branch where you are in: git branch. 
+6. commit to the repository: git commit -m "...."
+7. connect to the repository:git remote add origin(url of your repository).
+8. git push origin branch name..
 
 
 Git Commands:
