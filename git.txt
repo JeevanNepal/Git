@@ -9,9 +9,10 @@ Steps to push files/ code in existing repository.
 2. add the files: git add . / name of the particular file.
 3. open the file in notepad: notepad (file name) / Visual Studio Code.
 4. created new branch: git checkout new-branch.
-5. commit to the repository: git commit -m "...."
-6. connect to the repository:git remote add origin(url of your repository).
-7. git push origin -f(force push) master.
+5. check in which branch you are in: git branch.
+6. commit to the repository: git commit -m "...."
+7. connect to the repository:git remote add origin(url of your repository)/ only for the first time.
+8. git push origin (name of the branch you have created). 
 
 
 Git Commands:
