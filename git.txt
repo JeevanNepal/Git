@@ -41,6 +41,10 @@ git commit -m " just a message"
 
 git branch: to check in which branch you are currently.
 
-git checkoutgit 
+git checkoutgit
+dfgndfgdag
+afglkagadl
+sgmldagadgsad
+slknasldgasgit 
 
 
