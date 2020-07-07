@@ -41,5 +41,5 @@ git commit -m " just a message"
 
 git branch: to check in which branch you are currently.
  
-git checkout:
+git checkout: checkout is used to create new branches, eg: git checkout new-one.
 
