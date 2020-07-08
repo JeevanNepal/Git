@@ -12,7 +12,8 @@ Steps to push files/ code in existing repository.
 5. check in which branch you are in: git branch.
 6. commit to the repository: git commit -m "...."
 7. connect to the repository:git remote add origin(url of your repository)/ only for the first time.
-8. git push origin (name of the branch you have created) 
+8. git push origin (name of the branch you have created): -f is used to push forcrfully but it should not be followed as it oushes every
+thing even it's worng.
 
 
 Git Commands:
