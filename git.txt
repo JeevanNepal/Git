@@ -1,5 +1,5 @@
 Git.
-Git ia a version control system for tracking changes in computer files. 
+Git is a version control system for tracking changes in computer files. 
 It is used for cordinating work among several people on a project and tracking progress overtime.
 
 
@@ -38,3 +38,8 @@ it's called as master branch.
 git add . : to add one file in repository.
 
 git commit -m " just a message"
+
+
+Github.
+Github is a a Git repository hosting service which provides web-based geogriphical interface.
+It helps every members to work together on the project from anywhere, and makes it easy for them to colaborate.
