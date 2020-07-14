@@ -47,5 +47,3 @@ git commit -m " just a message"
 git branch: to check in which branch you are currently.
  
  git checkout: It is used to add new-branch:
-
- 
