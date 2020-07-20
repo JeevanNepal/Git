@@ -1,18 +1,20 @@
 Git.
-Git ia a version control system for tracking changes in computer files. 
+Git is a version control system for tracking changes in computer files. 
 It is used for cordinating work among several people on a project and tracking progress overtime.
+
 
 Steps to push files/ code in existing repository.
 
 1. git init
-2. add the files: git add (.all files) / name of the particular file.
-3. open the file in notepad: notepad (file name) / open the file in Visual Studio Code.
-4. add a new branch: git checkout new-branch
-5. check the branch where you are in: git branch. 
-6. commit to the repository: git commit -m "...."
+2. add the files: git add . / name of the particular file.
+3. open the file in notepad: notepad (file name)/ in visual studio code.
+4. commit to the repository: git commit -m "...."
+5. git checkout : to add new branch for easy push.
+6. git branch : to check in which branch you are currently.
 7. connect to the repository:git remote add origin(url of your repository).
-8. git push origin branch name..
-
+8. git push origin (name of the branch that you have recently created)/ -f is a wrong option as it pushed by force even 
+    if the code is wrong.
+9. Pushing by making a new-branch is the right way as it does not give any errors while pushing the code.
 
 Git Commands:
 1. git config command: configuers the user anme and email address.
@@ -39,3 +41,8 @@ it's called as master branch.
 git add . : to add one file in repository.
 
 git commit -m " just a message"
+
+
+Github.
+Github is a a Git repository hosting service which provides web-based geogriphical interface.
+It helps every members to work together on the project from anywhere, and makes it easy for them to colaborate.
