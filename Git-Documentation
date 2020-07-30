@@ -40,7 +40,7 @@ it's called as master branch.
 
 git add . : to add files in repository.
 
-git commit -m " just a message"
+git commit -m " just a message".
 
 
 Github.
