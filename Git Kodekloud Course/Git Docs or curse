@@ -14,3 +14,5 @@ Git has 2 repositories:
   
   
   To restore the file or version to previous version simply run git restore and file name. (git restore jeevan.txt)
+
+
