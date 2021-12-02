@@ -6,3 +6,7 @@ Git has 2 repositories:
   1. Local
   2. Remote.
   
+  What is a commit?
+  A commit stores a copy of the file in it's current state.
+  
+  git commit -m "Committed a file" -m avoids us to ot to open the text editor.
