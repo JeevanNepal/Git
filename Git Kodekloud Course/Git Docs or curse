@@ -10,3 +10,7 @@ Git has 2 repositories:
   A commit stores a copy of the file in it's current state.
   
   git commit -m "Committed a file" -m avoids us to ot to open the text editor.
+  
+  
+  
+  To restore the file or version to previous version simply run git restore and file name. (git restore jeevan.txt)
