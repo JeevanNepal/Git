@@ -1,3 +1,7 @@
 Git is a disrtibuted version control system.
 
 Distributed: It simply means that is has a remote repository which is stored in server and on local computer as well.
+
+Git has 2 repositories:
+  1. Local
+  2. Remote.
