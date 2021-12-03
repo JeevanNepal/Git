@@ -19,3 +19,4 @@ Git has 2 repositories:
 
 to not to accidently commit the cached fine use gitignore command and store the file in .gitignore file. (echo file name >> .gitignore)
 
+A branch is a pointer to the last commit.
