@@ -31,5 +31,5 @@ Merge in Git:
 1. Fast-forward merge : It's a merge if there is no extra rather then previou commits.
    ex: git mereg file name(jeevan/signup)
    
-2. No-fast-forward merge: 
+2. No-fast-forward merge: It commits in active branch/ create a commit in merging branch.
    ex: 
