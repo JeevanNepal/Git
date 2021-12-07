@@ -25,3 +25,11 @@ To delete a branch use got branch -d branch name.
 
 
 To count the number of branch in git just run the git branch command.
+
+
+Merge in Git:
+1. Fast-forward merge : It's a merge if there is no extra rather then previou commits.
+   ex: git mereg file name(jeevan/signup)
+   
+2. No-fast-forward merge: 
+   ex: 
