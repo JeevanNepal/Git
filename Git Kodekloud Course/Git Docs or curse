@@ -33,3 +33,13 @@ Merge in Git:
    
 2. No-fast-forward merge: It commits in active branch/ create a commit in merging branch.
    ex: 
+
+
+
+
+Remote Repository:
+
+We use connection string to push or pull to or from remote repository usig the path.
+
+To add to local machine: git remote add file name(origin).
+
