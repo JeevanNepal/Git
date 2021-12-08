@@ -41,5 +41,5 @@ Remote Repository:
 
 We use connection string to push or pull to or from remote repository usig the path.
 
-To add to local machine: git remote add file name(origin).
+To add to local machine: git remote add file name(origin) followed by the connection string.
 
