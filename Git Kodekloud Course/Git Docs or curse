@@ -53,3 +53,8 @@ git remote add origin http://git.example.com/sarah/story-blog.git
 Clone remote repository:
 
 git clone ssh link.
+
+
+
+
+Pull Requests: 
