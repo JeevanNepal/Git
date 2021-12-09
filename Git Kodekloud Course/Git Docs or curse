@@ -48,3 +48,8 @@ We can list all the remote repositories with: git reote -v
 To push the code to remote repository: git push origin(alias) master(branch)
 
 git remote add origin http://git.example.com/sarah/story-blog.git
+
+
+Clone remote repository:
+
+git clone ssh link.
